@@ -1,0 +1,8 @@
+discord.py
+asyncio
+requests
+humanfriendly
+pymongo
+python-dotenv
+googletrans==4.0.0-rc1
+nacl
